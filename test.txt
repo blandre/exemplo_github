@@ -1,3 +1,3 @@
 Primeira linha no abiente dev
 
-Segunda linha no ambiente dev
+Segunda linha no ambiente dev e browser
