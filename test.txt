@@ -1,3 +1,0 @@
-Primeira Linha
-
-Primeira linha pelo editor de comando e browser juntas
